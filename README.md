@@ -1,9 +1,4 @@
-<h2 data-importer="text" align="left">Olá! Sou o Victor<br><br> Engenheiro de Software Junior progamando em JS e JAVA <br><br>Desenvolvo sistemas web, e estou estudando cada vez mais linguagens.</h2>
-<br>Se você gosta do meu trabalho, considere dar uma estrela em algum repositório<br>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://usagif.com/wp-content/uploads/gifs/moon-43.gif"  />
+<h4 data-importer="text" align="left">Olá! Sou o Victor<br><br>Engenheiro de Software Junior programando em JS e JAVA</h4>
 
 ###
 
@@ -32,5 +27,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://usagif.com/wp-content/uploads/gifs/moon-43.gif"  />
+
+###
+
+<h2 data-importer="text" align="left">Tenho 21 anos e sou formado em Gestão de TI pela Estácio.<br>Desenvolvo sistemas web, e estou estudando cada vez mais linguagens.</h2>
 
 ###
