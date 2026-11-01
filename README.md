@@ -1,4 +1,5 @@
-<h2 data-importer="text" align="left">Olá! Sou o Victor<br><br>**Engenheiro de Software Junior progamando em JS e JAVA** Brasil <br><br>Desenvolvo sistemas web, e estou estudando cada vez mais linguagens.</h2>
+<h2 data-importer="text" align="left">Olá! Sou o Victor<br><br> Engenheiro de Software Junior progamando em JS e JAVA <br><br>Desenvolvo sistemas web, e estou estudando cada vez mais linguagens.</h2>
+<br>Se você gosta do meu trabalho, considere dar uma estrela em algum repositório<br>
 
 ###
 
