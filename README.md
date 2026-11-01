@@ -34,6 +34,6 @@
 
 ###
 
-<h4 data-importer="text" align="left">Tenho 21 anos e sou formado em Gestão de TI pela Estácio.<br>Desenvolvo sistemas web, e estou estudando cada vez mais linguagens.</h4>
+<h4 data-importer="text" align="left">Tenho 21 anos e sou formado em Gestão de TI pela Estácio.<br>Desenvolvo sistemas web, e estou estudando cada vez mais linguagens.<br>Se você gosta do meu trabalho, considere dar uma estrela em algum repositório!</h4>
 
 ###
