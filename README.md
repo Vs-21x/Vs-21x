@@ -1,38 +1,33 @@
-Olá! Sou o Victor
+<h2 data-importer="text" align="left">Olá! Meu nome é Victor Soares</h2>
 
-**Engenheiro de Software Junior progamando em JS e JAVA** Brasil 
+###
 
-Desenvolvo sistemas web, e estou estudando cada vez mais linguagens.
-Tenho um foco em arquitetura, performance, código limpo e soluções voltadas para o negócio.
+<img data-importer="image" align="right" height="150" src="https://usagif.com/wp-content/uploads/gifs/moon-43.gif"  />
 
-Onde me encontrar
-<p align="left">
-<a href="https://github.com/Vs-21x">
-<img src="https://img.shields.io/badge/Vs-21x-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.instagram.com/vixt0s/">
-<img src="https://img.shields.io/badge/Instagram-@vixt0s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</p>
-Por enquanto ainda estou estudando frontEnd, mas pretendo migrar para o BackEnd em breve. Fique a vontade para dar uma olhada em alguns dos meus projetos!
+###
 
----
-Tecnologias Pilha
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
 
-Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![Styled Componentes](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
-Backend
-![JAVA](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-DevOps & Ferramentas
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
----
-Estatísticas do GitHub
-<p align="left">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vs-21x&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vs-21x&layout=compact&theme=tokyonight" />
-</p>
----
-Se você gosta do meu trabalho, considere dar uma estrela em algum repositório
+###
 
+<div data-importer="socials" align="left">
+  <a href="https://www.instagram.com/vixt0s/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="vs8914163@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/victor-soares-288397280" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
