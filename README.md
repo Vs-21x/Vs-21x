@@ -1,4 +1,4 @@
-<h4 data-importer="text" align="left">Olá! Sou o Victor<br><br>Engenheiro de Software Junior programando em JS e JAVA</h4>
+<h2 data-importer="text" align="left">Olá! Sou o Victor<br><br>Engenheiro de Software Junior programando em JS e JAVA</h2>
 
 ###
 
@@ -34,6 +34,6 @@
 
 ###
 
-<h2 data-importer="text" align="left">Tenho 21 anos e sou formado em Gestão de TI pela Estácio.<br>Desenvolvo sistemas web, e estou estudando cada vez mais linguagens.</h2>
+<h4 data-importer="text" align="left">Tenho 21 anos e sou formado em Gestão de TI pela Estácio.<br>Desenvolvo sistemas web, e estou estudando cada vez mais linguagens.</h4>
 
 ###
