@@ -22,9 +22,8 @@ Tecnologias Pilha
 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![Styled Componentes](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
-![HTML](https://static.vecteezy.com/system/resources/previews/001/416/705/original/html5-emblem-orange-shield-and-white-text-vector.jpg)
 Backend
-![JAVA](https://tse3.mm.bing.net/th/id/OIP.ghVtyoRpuQYWoWnbLHul-QHaEx?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
+![JAVA](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 DevOps & Ferramentas
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
